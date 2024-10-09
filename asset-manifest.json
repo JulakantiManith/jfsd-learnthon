@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jfsd-learnthon/static/css/main.e2de430c.css",
+    "main.js": "/jfsd-learnthon/static/js/main.933c7df2.js",
+    "static/js/453.ec27003a.chunk.js": "/jfsd-learnthon/static/js/453.ec27003a.chunk.js",
+    "static/media/logo.svg": "/jfsd-learnthon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jfsd-learnthon/index.html",
+    "main.e2de430c.css.map": "/jfsd-learnthon/static/css/main.e2de430c.css.map",
+    "main.933c7df2.js.map": "/jfsd-learnthon/static/js/main.933c7df2.js.map",
+    "453.ec27003a.chunk.js.map": "/jfsd-learnthon/static/js/453.ec27003a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2de430c.css",
+    "static/js/main.933c7df2.js"
+  ]
+}
